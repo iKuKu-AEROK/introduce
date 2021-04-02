@@ -40,11 +40,11 @@
   - 시스템 UI 표준 가이드 정립
   
 ## 자체평가 장점
-- FrontEnd 를 Main 으로 BackEnd, DataBase, Android, CX 관련 지식 및 개발 능력을 보유하고 있습니다.
-- 대규모 시스템의 기획 및 설계, 구축 경험이 있습니다.
-- 협업과 소통을 통한 시스템 개발을 선호합니다. (WaterFull 개발론을 지양하고 Agile 방법론을 선호합니다.)
-- 다양한 기획, 설계, 개발 경험과 FrontEnd, BackEnd, DataBase, CX, Adnroid 관련 지식으로 기획-설계-디자인-개발-테스트-릴리즈까지 연관된 팀원들을 리딩이 가능합니다.
+- FrontEnd 를 Main 으로 BackEnd, DataBase, Android, CX 관련 지식 및 개발 능력을 보유
+- 대규모 시스템의 기획 및 설계, 구축 경험
+- 협업과 소통을 통한 시스템 개발을 선호 (WaterFull 개발론을 지양하고 Agile 방법론을 선호함)
+- 다양한 기획, 설계, 개발 경험과 FrontEnd, BackEnd, DataBase, CX, Adnroid 관련 지식으로 기획-설계-디자인-개발-테스트-릴리즈까지 연관된 팀원들을 리딩 가능
 
 ## 자체평가 단점
-- FrontEnd 를 Main 으로 하지만 React, VUE.js, Node.js, TypeScript 등의 프레임웍이나 라이브러리 경험이 적습니다. 그러나 이들은 모두 JavaScript 로 익히는데 어렵지 않다고 판단합니다.
-- 입사후 한회사에 재직중으로 많은 Site 에 대한 경험은 다소 부족합니다.
+- FrontEnd 를 Main 으로 하지만 React, VUE.js, Node.js, TypeScript 등의 프레임웍이나 라이브러리 경험이 적음<br/>그러나 이들은 모두 JavaScript 로 익히는데 어렵지 않다고 판단
+- 입사후 한회사에 재직중으로 많은 Site 에 대한 경험은 다소 부족
